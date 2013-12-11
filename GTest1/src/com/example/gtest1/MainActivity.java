@@ -1,5 +1,6 @@
 package com.example.gtest1;
 
+import android.location.LocationManager;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
@@ -18,6 +19,8 @@ public class MainActivity extends Activity {
 		System.out.println("Hi");
 		System.out.println("Hi");
 		
+	LocationManager locationManager = (LocationManager)getSystemService(LOCATION_SERVICE);
+	
 	
 		
 		//aaaaaaa
