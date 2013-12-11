@@ -13,6 +13,11 @@ public class MainActivity extends Activity {
 		
 		System.out.println("Hi");
 		System.out.println("Hi");
+		System.out.println("Hi");
+		System.out.println("Hi");
+		System.out.println("Hi");
+		System.out.println("Hi");
+		
 	
 		
 		//aaaaaaa
